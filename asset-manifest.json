@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diet/static/css/main.e6c13ad2.css",
+    "main.js": "/diet/static/js/main.594065e9.js",
+    "static/js/453.92abc4d8.chunk.js": "/diet/static/js/453.92abc4d8.chunk.js",
+    "index.html": "/diet/index.html",
+    "main.e6c13ad2.css.map": "/diet/static/css/main.e6c13ad2.css.map",
+    "main.594065e9.js.map": "/diet/static/js/main.594065e9.js.map",
+    "453.92abc4d8.chunk.js.map": "/diet/static/js/453.92abc4d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.594065e9.js"
+  ]
+}
